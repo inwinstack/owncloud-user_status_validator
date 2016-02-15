@@ -2,7 +2,10 @@
 <info>
     <id>user_status_validator</id>
     <name>User Status Validator</name>
-    <description>controll all users permission</description>
+    <description>
+        Check user permission.
+        If user is disabled,  he/she will see an unauthorized message while try to log in.
+    </description>
     <licence>AGPL</licence>
     <author>Dino Peng</author>
     <version>0.0.1</version>
